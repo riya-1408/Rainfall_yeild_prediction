@@ -1,0 +1,1 @@
+Synthetic sample data. Delete this file after replacing the CSVs with real data.gov.in data.

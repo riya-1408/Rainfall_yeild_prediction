@@ -1,0 +1,2 @@
+model,accuracy,macro_f1
+Random Forest Regression → outcome,0.715547703180212,0.7152678065869913

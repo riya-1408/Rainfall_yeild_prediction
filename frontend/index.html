@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AgriRain Analytics – Rainfall vs Crop Production (India)</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header>
+  <div class="brand"><span class="logo">🌾</span>
+    <div><h1>AgriRain Analytics</h1><p>Rainfall × crop production across Indian districts · Machine-learning yield prediction</p></div></div>
+  <nav id="nav">
+    <button data-tab="overview">Overview</button><button data-tab="production">Crop production</button>
+    <button data-tab="rainfall">Rainfall</button><button data-tab="districts">Districts</button>
+    <button data-tab="prediction">Prediction</button>
+  </nav>
+</header>
+<div id="filters" class="filters">
+  <label>State <select id="fState"></select></label>
+  <label>Crop <select id="fCrop"></select></label>
+  <label>Season <select id="fSeason"></select></label>
+  <label>From <select id="fY0"></select></label>
+  <label>To <select id="fY1"></select></label>
+  <button id="apply" type="button" class="primary">Apply filters</button>
+  <button id="reset" type="button">Reset</button>
+</div>
+<main id="view"></main>
+<footer id="foot"></footer>
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,9 @@
+feature,importance
+rain_z,0.419
+yr_c,0.152
+rain_anom_pct_f,0.143
+rain_z_sq,0.079
+crop_Rice,0.037
+season_rain,0.035
+annual_rain,0.032
+rain_cv,0.022

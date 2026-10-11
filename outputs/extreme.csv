@@ -1,0 +1,28 @@
+crop,rain_class,mean_yield_change_pct,n
+Bajra,Deficient (z<-1),-8.367045506017531,36
+Bajra,Normal,1.0118748392455013,124
+Bajra,Excess (z>1),5.325489640914853,33
+Cotton(Lint),Deficient (z<-1),-14.84851221284249,62
+Cotton(Lint),Normal,1.8090989330571174,236
+Cotton(Lint),Excess (z>1),9.141859425828796,54
+Gram,Deficient (z<-1),-13.791928106901493,53
+Gram,Normal,1.324792436817729,198
+Gram,Excess (z>1),9.189476219134692,51
+Groundnut,Deficient (z<-1),-19.467449496995542,40
+Groundnut,Normal,1.8973960929415492,140
+Groundnut,Excess (z>1),15.547349299030458,33
+Maize,Deficient (z<-1),-15.460475689197398,40
+Maize,Normal,1.104286439675962,141
+Maize,Excess (z>1),11.285722916428902,41
+Rice,Deficient (z<-1),-22.015110653915904,66
+Rice,Normal,0.7150369562463488,256
+Rice,Excess (z>1),20.48302971547394,62
+Soyabean,Deficient (z<-1),-22.719102595200024,24
+Soyabean,Normal,2.674512441102248,99
+Soyabean,Excess (z>1),14.76219634819357,19
+Sugarcane,Deficient (z<-1),-12.238003366024726,40
+Sugarcane,Normal,0.409112352440615,154
+Sugarcane,Excess (z>1),9.47815183033632,45
+Wheat,Deficient (z<-1),-7.269959276670835,43
+Wheat,Normal,0.6532075171003687,174
+Wheat,Excess (z>1),5.684289740610921,35

@@ -1,0 +1,3 @@
+model,r2,mape,mae,selected,params
+Linear Regression (baseline),0.5368581802917454,6.9659259696588816,0.6698809562904147,,
+Random Forest Regression,0.5422096337359993,6.514380733019623,0.7755129127305955,True,"n_estimators=500, min_samples_leaf=2 (tuned on validation years)"
